@@ -1,12 +1,13 @@
 <h1 align="center">🎮 "Unleashing virtual wonders and crafting immersive adventures, welcome to the realm of <b><i>Sayanabha Chandra</i></b>, the visionary game developer shaping digital dreams into reality." 🌟</h1>
 <h3 align="center">Hey there! I'm Sayanabha Chandra, a passionate game developer on a mission to unleash virtual wonders and create immersive adventures. With my visionary approach, I shape digital dreams into reality, bringing gaming experiences to life like never before. Join me on this incredible journey as we dive into the realm of limitless possibilities. Let's embark on epic quests and explore the uncharted territories of gaming together! 🎮✨</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/itachi-uchiha-in-violet-background-lk1n74fst6z37vmr.html?embed=true">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1630849641470-JKHB2TRUIY3H0L01ACHS/33ae06d2f4f62bf0710791d257bd302f.gif?format=1500w" Hspace = "10" Vspace = "100">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanabha&label=Profile%20views&color=0e75b6&style=flat" alt="sayanabha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayanabha" alt="sayanabha" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayanabha" alt="sayanabha" /></a> </p> -->
 
 - 🔭 I’m currently working on [Libertalia](https://github.com/Sayanabha/Libertalia)
 
