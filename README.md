@@ -1,7 +1,7 @@
 <h1 align="center">🎮 "Unleashing virtual wonders and crafting immersive adventures, welcome to the realm of <b><i>Sayanabha Chandra</i></b>, the visionary game developer shaping digital dreams into reality." 🌟</h1>
 <h3 align="center">Hey there! I'm Sayanabha Chandra, a passionate game developer on a mission to unleash virtual wonders and create immersive adventures. With my visionary approach, I shape digital dreams into reality, bringing gaming experiences to life like never before. Join me on this incredible journey as we dive into the realm of limitless possibilities. Let's embark on epic quests and explore the uncharted territories of gaming together! 🎮✨</h3>
 
-img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)"
+img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanabha&label=Profile%20views&color=0e75b6&style=flat" alt="sayanabha" /> </p>
