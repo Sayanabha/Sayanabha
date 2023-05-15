@@ -1,4 +1,11 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1630849779844-L0NDT2APVRWFFS93IN08/YuRhxID.gif?format=1500w)](https://github.com/Sayanabha/Sayanabha/)
+<!-- [![MasterHead](https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1630849779844-L0NDT2APVRWFFS93IN08/YuRhxID.gif?format=1500w)](https://github.com/Sayanabha/Sayanabha/) -->
+<div align="center">
+  <a href="https://github.com/Sayanabha/Sayanabha/">
+    <img src="https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1630849779844-L0NDT2APVRWFFS93IN08/YuRhxID.gif" alt="MasterHead" style="border: 1px solid #000000;">
+  </a>
+</div>
+
+
 
 
 <h1 align="center">🎮 "Unleashing virtual wonders and crafting immersive adventures, welcome to the realm of <b><i>Sayanabha Chandra</i></b>, the visionary game developer shaping digital dreams into reality." 🌟</h1>
