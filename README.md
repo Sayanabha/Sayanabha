@@ -1,9 +1,9 @@
 <!-- [![MasterHead](https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1630849779844-L0NDT2APVRWFFS93IN08/YuRhxID.gif?format=1500w)](https://github.com/Sayanabha/Sayanabha/) -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Sayanabha/Sayanabha/">
     <img src="https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1630849779844-L0NDT2APVRWFFS93IN08/YuRhxID.gif" alt="MasterHead" style="border: 1px solid #000000;">
   </a>
-</div>
+</div> -->
 
 
 
@@ -28,6 +28,8 @@
 - 🤝 I’m looking for help with [Dragonov](https://github.com/Sayanabha/Sample-Game-6)
 
 - 📝 I regularly write articles on [https://biotechnicas.blogspot.com/](https://biotechnicas.blogspot.com/)
+
+- 📝 I published a paper on [https://www.ingentaconnect.com/contentone/smart/ajec/2023/00000003/00000004/art00005](https://www.ingentaconnect.com/contentone/smart/ajec/2023/00000003/00000004/art00005)
 
 - 💬 Ask me about **Next.JS, Angular.JS**
 
