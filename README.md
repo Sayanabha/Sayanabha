@@ -51,5 +51,11 @@
 <a href="https://cloud.appwrite.io/card/646d274fef5934fcd875">
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=646d274fef5934fcd875" alt="Appwrite Cloud Card" />
 </a>
+<br>
+ <a href="https://www.testdome.com/certificates/1a2a92aa951e47ffa6bfaa44a6cc60ed" class="testdome-certificate-stamp gold">
+        <span class="testdome-certificate-name">Sayanabha Chandra</span>
+        <span class="testdome-certificate-test-name">Core Java</span>
+        <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
+    </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayanabha&show_icons=true&locale=en" alt="sayanabha" /></p>
