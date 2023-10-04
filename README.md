@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1630849779844-L0NDT2APVRWFFS93IN08/YuRhxID.gif?format=1500w)](https://github.com/Sayanabha/Sayanabha/) -->
 <div align="center">
   <a href="https://github.com/Sayanabha/Sayanabha/">
-    <img src="https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1630849779844-L0NDT2APVRWFFS93IN08/YuRhxID.gif" alt="MasterHead" style="border: 1px solid #000000;">
+    <img src="https://i.pinimg.com/originals/d2/a3/7a/d2a37a2e70cb1410041c1d5df151df74.gif" alt="MasterHead" style="border: 1px solid #000000;">
   </a>
 </div>
 
