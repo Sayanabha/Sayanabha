@@ -42,7 +42,7 @@
 <a href="https://twitter.com/sayanabha9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayanabha9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sayanabhachandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayanabhachandra" height="30" width="40" /></a>
 <a href="https://fb.com/sayanabha chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayanabha chandra" height="30" width="40" /></a>
-<a href="https://instagram.com/sayanabha_13th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayanabha.js" height="30" width="40" /></a>
+<a href="https://instagram.com/sayanabha.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayanabha.js" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
