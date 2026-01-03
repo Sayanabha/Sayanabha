@@ -31,8 +31,7 @@ Currently exploring game engines, real-time systems, and modern web technologies
 
 ## Connect With Me
 - LinkedIn: https://linkedin.com/in/sayanabhachandra  
-- Twitter: https://twitter.com/sayanabha9  
-- Instagram: https://instagram.com/sayanabha.js  
+- Twitter: https://twitter.com/sayanabha9   
 - Email: sayanabhachandraitsme@gmail.com
 
 ---
