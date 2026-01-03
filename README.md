@@ -1,8 +1,8 @@
 # Hi, I’m Sayanabha Chandra
 
-Game Developer | Software Engineer | Tech Enthusiast
+Data Engineer | Software Builder | hehe
 
-I build immersive games and scalable applications, turning ideas into interactive digital experiences.  
+I build nothing impressive, just working on my skillset.  
 Currently exploring game engines, real-time systems, and modern web technologies.
 
 ---
