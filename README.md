@@ -37,7 +37,7 @@ Currently exploring game engines, real-time systems, and modern web technologies
 ---
 
 ## GitHub Stats
-[![Sayanabha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayanabha)](https://github.com/Sayanabha/)
+[![Sayanabha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayanabha)](https://github.com/Sayanabha/Readme.md)
 
 ---
 
