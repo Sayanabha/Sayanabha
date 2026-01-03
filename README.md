@@ -43,7 +43,7 @@ Currently exploring game engines, real-time systems, and modern web technologies
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayanabha&layout=compact&theme=tokyonight" />
 </p>
-
+![GitHub Stats](https://streak-stats.demolab.com?user=Sayanabha&theme=tokyonight&hide_border=true)
 
 ---
 
