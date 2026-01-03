@@ -36,8 +36,14 @@ Currently exploring game engines, real-time systems, and modern web technologies
 
 ---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayanabha&show_icons=true&theme=tokyonight)
+## 📈 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayanabha&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayanabha&layout=compact&theme=tokyonight" />
+</p>
+
 
 ---
 
