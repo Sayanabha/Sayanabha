@@ -3,23 +3,23 @@
 Data Engineer | Software Builder | hehe
 
 I build nothing impressive, just working on my skillset.  
-Currently exploring game engines, real-time systems, and modern web technologies.
+Currently exploring system architectures, real-time systems, and modern web technologies.
 
 ---
 
 ## What I’m Working On
-- Currently developing **Libertalia**
-- Learning **Unity, C#, Unreal Engine**
-- Open to collaborating on **game development and interactive projects**
+- Currently developing myself (way too lazy)
+- Learning (what?)
+- Open to collaborating on anything
 
 ---
 
 ## Skills
 **Game Development:** Unity, Unreal Engine, C#  
-**Frontend:** Next.js, Angular, React  
-**Backend:** Node.js, NestJS, Django  
+**Frontend:** Next.js, Angular, React, Razor, ASP .NET  
+**Backend:** Node.js, NestJS, Django, SQL, SSMS
 **Languages:** C#, Java, Python, C++, JavaScript  
-**Tools:** Git, Docker, AWS, Firebase, Blender
+**Tools:** Git, Docker, AWS, Firebase, Blender, Azure
 
 ---
 
@@ -47,4 +47,4 @@ Currently exploring game engines, real-time systems, and modern web technologies
 
 ---
 
-Fun fact: When I’m not building games, I’m usually playing them and analyzing mechanics and design.
+Fun fact: I'm a blackhole for dad jokes.
