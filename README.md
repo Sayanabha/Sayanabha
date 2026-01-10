@@ -38,12 +38,16 @@ Currently exploring system architectures, real-time systems, and modern web tech
 
 ## 📈 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayanabha&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayanabha&layout=compact&theme=tokyonight" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayanabha" alt="sayanabha" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=Sayanabha&count_private=true&theme=radical" alt="Sayanabha" width="270" />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanabha&show_icons=true&locale=en&layout=compact" alt="sayanabha" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayanabha&show_icons=true&locale=en" alt="sayanabha" /></p>
+
 
 ---
 
