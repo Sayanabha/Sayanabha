@@ -30,7 +30,7 @@ Currently exploring system architectures, real-time systems, and modern web tech
 ---
 
 ## Connect With Me
-- LinkedIn: https://linkedin.com/in/sayanabhachandra  
+- LinkedIn: https://linkedin.com/in/sayanabha
 - Twitter: https://twitter.com/sayanabha9   
 - Email: sayanabhachandraitsme@gmail.com
 
