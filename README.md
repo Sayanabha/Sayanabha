@@ -15,11 +15,11 @@ Currently exploring system architectures, real-time systems, and modern web tech
 ---
 
 ## Skills
-**Game Development:** Unity, Unreal Engine, C#  
 **Frontend:** Next.js, Angular, React, Razor, ASP .NET  
 **Backend:** Node.js, NestJS, Django, SQL, SSMS
 **Languages:** C#, Java, Python, C++, JavaScript  
 **Tools:** Git, Docker, AWS, Firebase, Blender, Azure
+**Game Development:** Unity, Unreal Engine, C#  
 
 ---
 
