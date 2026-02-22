@@ -1,6 +1,6 @@
 # Hi, I’m Sayanabha Chandra
 
-Data Engineer | Software Builder | hehe
+Data Engineer | Software Builder (engineer) | hehe
 
 I build nothing impressive, just working on my skillset.  
 Currently exploring system architectures, real-time systems, and modern web technologies.
@@ -24,7 +24,7 @@ Currently exploring system architectures, real-time systems, and modern web tech
 ---
 
 ## Publications & Writing
-- Articles: https://biotechnicas.blogspot.com/
+- Articles: https://biotechnicas.blogspot.com/ (will publish my own blog site soon)
 - Research Paper: https://www.ingentaconnect.com/contentone/smart/ajec/2023/00000003/00000004/art00005
 
 ---
