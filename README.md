@@ -38,17 +38,12 @@ Currently exploring system architectures, real-time systems, and modern web tech
 
 ## 📈 GitHub Overview
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sayanabha&show_icons=true&locale=en&layout=compact" alt="Sayanabha" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=sayanabha&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sayanabha&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanabha&show_icons=true&locale=en&layout=compact" alt="sayanabha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayanabha&show_icons=true&locale=en" alt="sayanabha" /></p>
-
 
 ---
 
-Fun fact: I'm a blackhole for dad jokes.
+**Fun fact:** <br/>
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
