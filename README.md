@@ -1,42 +1,46 @@
-# Hi, I’m Sayanabha Chandra
+# Sayanabha Chandra
+### Data Engineer | Software Builder | Professional Underestimator
 
-Data Engineer | Software Builder (engineer) | hehe
+I spend my time building systems and then wondering why I chose to build systems. Currently, I am refining the art of turning coffee into scalable architectures, real-time data pipelines, and modern web applications. I once used to be interested in game dev, now, not so much (maybe in some near future).
 
-I build nothing impressive, just working on my skillset.  
-Currently exploring system architectures, real-time systems, and modern web technologies.
-
----
-
-## What I’m Working On
-- Currently developing myself (way too lazy)
-- Learning (what?)
-- Open to collaborating on anything
+I claim to build nothing impressive, but my browser tabs and GitHub history suggest otherwise. (hehe)
 
 ---
 
-## Skills
-**Frontend:** Next.js, Angular, React, Razor, ASP .NET  
-**Backend:** Node.js, NestJS, Django, SQL, SSMS
-**Languages:** C#, Java, Python, C++, JavaScript  
-**Tools:** Git, Docker, AWS, Firebase, Blender, Azure
-**Game Development:** Unity, Unreal Engine, C#  
+### Current Trajectory
+* **Self-Optimization:** Attempting to overcome a deep-seated commitment to being "too lazy" by automating everything I touch.
+* **The "What?":** Currently deep-diving into the void of system design and real-time processing.
+* **Collaboration:** Open to any project that sounds interesting enough to justify the context switching.
 
 ---
 
-## Publications & Writing
-- Articles: https://biotechnicas.blogspot.com/ (will publish my own blog site soon)
-- Research Paper: https://www.ingentaconnect.com/contentone/smart/ajec/2023/00000003/00000004/art00005
+### What I can use
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | Next.js, Angular, React, Razor, ASP.NET |
+| **Backend** | Node.js, NestJS, Django, SQL, SSMS |
+| **Languages** | C#, Java, Python, C++, JavaScript |
+| **Cloud & DevOps** | Git, Docker, AWS, Azure, Firebase |
+| **Creative/Gaming** | Unity, Unreal Engine, Blender |
 
 ---
 
-## Connect With Me
-- LinkedIn: https://linkedin.com/in/sayanabha
-- Twitter: https://twitter.com/sayanabha9   
-- Email: sayanabhachandraitsme@gmail.com
+### Published Works
+* **The Writing:** Documenting the chaos at [biotechnicas.blogspot.com](https://biotechnicas.blogspot.com/). A dedicated blog site is currently "under construction" (see: lazy).
+* **The Research:** For proof that I can be formal when required, see my paper on [Ingenta Connect](https://www.ingentaconnect.com/contentone/smart/ajec/2023/00000003/00000004/art00005).
 
 ---
 
-## 📈 GitHub Overview
+### Communication Channels
+* **Professionalism:** [linkedin.com/in/sayanabha](https://linkedin.com/in/sayanabha)
+* **The Void:** [twitter.com/sayanabha9](https://twitter.com/sayanabha9)
+* **Direct:** sayanabhachandraitsme@gmail.com
+* **Indirect:** sayanabha.chandra2020@uem.edu.in
+
+---
+
+### GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=sayanabha&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
@@ -45,5 +49,12 @@ Currently exploring system architectures, real-time systems, and modern web tech
 
 ---
 
-**Fun fact:** <br/>
+**Mandatory Programmer Humour:**
+<br/>
 <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
+
+---
+### Daily Internal Screaming
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Loading%20Next%20Bug-radical" alt="Status" />
+</p>
