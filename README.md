@@ -28,6 +28,7 @@ I claim to build nothing impressive, but my browser tabs and GitHub history sugg
 
 ### Published Works
 * **The Writing:** Documenting the chaos at [biotechnicas.blogspot.com](https://biotechnicas.blogspot.com/). A dedicated blog site is currently "under construction" (see: lazy).
+* **Update:** https://ith-ink.netlify.app/ (not lazy :)
 * **The Research:** For proof that I can be formal when required, see my paper on [Ingenta Connect](https://www.ingentaconnect.com/contentone/smart/ajec/2023/00000003/00000004/art00005).
 
 ---
