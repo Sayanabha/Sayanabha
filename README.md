@@ -61,4 +61,5 @@ I claim to build nothing impressive, but my browser tabs and GitHub history sugg
 </p>
 
 <p align="center">
-<img src="https://v2.jokeapi.dev/joke/Any?format=svg" /></p>
+  <img src="https://cataas.com/cat?width=200&cache_bust=START_ID" alt="Daily Cat" width="150" />
+</p>
