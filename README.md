@@ -68,5 +68,5 @@ I claim to build nothing impressive, but my browser tabs and GitHub history sugg
 </p>
 
 <p align="center">
-  <img src="https://cataas.com/cat/cute?cachebust=13" alt="Daily Cat" width="150" />
+  <img src="https://cataas.com/cat/cute?cachebust=1" alt="Daily Cat" width="150" />
 </p>
