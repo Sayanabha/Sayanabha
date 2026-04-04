@@ -68,6 +68,7 @@ I claim to build nothing impressive, but my browser tabs and GitHub history sugg
 </p>
 
 <p align="center">
-  <img src="https://cataas.com/cat?width=300&height=200&random" alt="Daily Cat" width="150" />
+  <img src="https://cataas.com/cat?width=250&height=180&random" alt="Daily Cat" width="150" />
+  <img src="https://cataas.com/cat?width=280&height=220&random" alt="Daily Cat" width="150" />
 </p>
 
