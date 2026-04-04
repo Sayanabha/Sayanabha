@@ -44,7 +44,7 @@ I claim to build nothing impressive, but my browser tabs and GitHub history sugg
 ### GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=sayanabha&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Sayanabha&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sayanabha&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
