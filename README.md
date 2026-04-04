@@ -60,6 +60,14 @@ I claim to build nothing impressive, but my browser tabs and GitHub history sugg
   <img src="https://img.shields.io/badge/Status-Loading%20Next%20Bug-radical" alt="Status" />
 </p>
 
+
+---
+### Daily Internal Screaming (random cat image)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Loading%20Next%20Bug-radical" alt="Status" />
+</p>
+
 <p align="center">
   <img src="https://placecats.com/300/200" alt="Daily Cat" width="150" />
 </p>
+
