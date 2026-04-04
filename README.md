@@ -68,6 +68,6 @@ I claim to build nothing impressive, but my browser tabs and GitHub history sugg
 </p>
 
 <p align="center">
-  <img src="https://cataas.com/cat?width=300&height=200&ts=<?= Math.floor(Math.random()*100000) ?>" alt="Daily Cat" width="150" />
+  <img src="https://cataas.com/cat?random" alt="Daily Cat" width="150" />
 </p>
 
