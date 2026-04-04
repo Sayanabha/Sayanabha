@@ -1,7 +1,7 @@
 # Sayanabha Chandra
 ### Data Engineer | Software Builder | Professional Underestimator
 
-I spend my time building systems and then wondering why I chose to build systems. Currently, I am refining the art of turning coffee into scalable architectures, real-time data pipelines, and modern web applications. I once used to be interested in game dev, now, not so much (maybe in some near future).
+I spend my time building systems and then wondering why I chose to build systems. Currently, I am refining the art of turning coffee into scalable architectures, real-time data pipelines, and modern web applications. I once used to be interested in game+app dev, now, not so much (maybe in some near future).
 
 I claim to build nothing impressive, but my browser tabs and GitHub history suggest otherwise. (hehe)
 
