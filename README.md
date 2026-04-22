@@ -54,12 +54,6 @@ I claim to build nothing impressive, but my browser tabs and GitHub history sugg
 <br/>
 <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
 
----
-### Daily Internal Screaming (random cat image)
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Loading%20Next%20Bug-radical" alt="Status" />
-</p>
-
 
 ---
 ### Daily Internal Screaming (random cat image)
